@@ -42,4 +42,4 @@ Python, requests, работа с API, обработка JSON/CSV, базова
 
 3. Запустить:
    python main.py
-# Документация https://www.alphavantage.co/documentation/
+ Документация https://www.alphavantage.co/documentation/
